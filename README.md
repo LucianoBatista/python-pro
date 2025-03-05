@@ -11,4 +11,7 @@ Some books that we're using:
 - Fluent Python
 - Pratices of a python pro
 - Architecture Patterns with Python
+- Robust Python
 - Software Design in Python (https://www.manning.com/books/software-design-in-python)
+
+
